@@ -53,5 +53,5 @@ I build full-stack applications and AI / computer vision solutions for smart cit
 
 ## Get in touch
 
-- Portfolio: [my-profile-url](https://layhn04.github.io/my_portfolio/)
+- Portfolio: [my-profile-url](https://layhn04.github.io/)
 - Email: haenainglay20@gmail.com
